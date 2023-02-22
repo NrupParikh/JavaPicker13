@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JavaPicker13</string>
+    <string name="view_image">View Image</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="intent_to_open">Intent To Open</string>
+    <string name="image_from_url">Image from URL</string>
+    <string name="image_from_uri">Image from Uri</string>
+</resources>
